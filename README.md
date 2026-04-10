@@ -36,5 +36,5 @@ Beykoz Üniversitesi'nde **Bilgisayar Mühendisliği (İngilizce)** 3. sınıf �
 
 ### 📫 Bana Ulaşın
 
-* **E-posta:** grkeemcolak@icloud.com
-* **LinkedIn:** [linkedin.com/in/eren-gorkem-colak](https://www.linkedin.com/in/eren-gorkem-colak)
+* **E-posta:** [grkeemcolak@icloud.com](mailto:grkeemcolak@icloud.com)
+* **LinkedIn:** [Eren Görkem Çolak](https://www.linkedin.com/in/eren-g%C3%B6rkem-%C3%A7olak-06104b35a/)
