@@ -2,82 +2,108 @@
 
 🎓 **Beykoz Üniversitesi** Bilgisayar Mühendisliği (İngilizce) 4. sınıf öğrencisiyim.
 
-Yazılım geliştirmeyi; gerçek dünya problemlerine sürdürülebilir çözümler üretme süreci olarak görüyorum. Özellikle **backend geliştirme**, **mobil uygulama geliştirme**, **web teknolojileri** ve **veri analizi** alanlarında projeler geliştiriyor; Clean Code ve ölçeklenebilir yazılım mimarilerini benimseyerek kendimi sürekli geliştirmeye odaklanıyorum.
+Yazılım geliştirmeyi, gerçek dünya problemlerine sürdürülebilir çözümler üretme süreci olarak görüyorum. Backend, frontend ve mobil geliştirme alanlarında projeler geliştiriyor; modern teknolojilerle kullanıcı odaklı ve ölçeklenebilir uygulamalar üretmeye odaklanıyorum.
 
 ---
 
 ## 🚀 Çalışma Alanlarım
 
-- 🐍 Backend Development (Python & Flask)
+- 🐍 Backend Development (Python, Flask, C#, ASP.NET Core)
+- 🌐 Frontend Development (HTML5, CSS3, JavaScript, React, TypeScript, Tailwind CSS)
 - 📱 Mobile App Development (Flutter & Dart)
-- 🌐 Web Development
-- 📊 Data Analysis & Forecasting
+- 📊 Data Analysis & Forecasting (Python, Prophet, yfinance)
 - 🏗️ Object-Oriented Programming (OOP)
-- ⚙️ Clean Architecture
-- 🗄️ Database Design
+- ⚙️ Clean Architecture & Software Design
+- 🗄️ Database Design & REST API Development
 
 ---
 
-## 🌟 Öne Çıkan Projeler
+# 🌟 Öne Çıkan Projeler
 
-### 📊 GOBA INVEST
+## 📊 GOBA INVEST
 
-Finansal piyasalar için geliştirdiğim analiz ve tahminleme platformu.
+Finansal piyasalara yönelik geliştirdiğim analiz ve tahminleme platformu.
 
-**Teknolojiler:** Python • Flask • Prophet • Yahoo Finance API • HTML5 • CSS3 • JavaScript
-
----
-
-### 🎫 Eventix
-
-QR tabanlı akıllı etkinlik ve e-bilet yönetim sistemi.
-
-**Teknolojiler:** Python • Flask • SQLite • Turso Cloud • JWT Authentication • QR Code • Virtual POS
+**Teknolojiler:**  
+Python • Flask • Prophet • Yahoo Finance API • HTML5 • CSS3 • JavaScript
 
 ---
 
-### 🎓 Gimbo Course Helper
+## 🎫 Eventix
+
+QR tabanlı etkinlik ve e-bilet yönetim sistemi.
+
+**Teknolojiler:**  
+Python • Flask • SQLite • Turso Cloud • JWT Authentication • QR Code • Virtual POS
+
+---
+
+## 📱 Mini Catalog App
+
+Flutter ile geliştirilmiş ürün katalog ve sepet yönetimi uygulaması.
+
+**Teknolojiler:**  
+Flutter • Dart • JSON Parsing • GridView • Stateful Widgets • Singleton Pattern
+
+---
+
+## 🎬 Movie & TV Tracker
+
+Film ve dizi takip uygulaması.
+
+**Teknolojiler:**  
+React • TypeScript • Tailwind CSS • Vite • LocalStorage
+
+---
+
+## 🎓 Gimbo Course Helper
 
 Üniversite öğrencileri için geliştirilen mobil ders asistanı.
 
-**Teknolojiler:** Flutter • Dart • Firebase • Clean Architecture
+**Teknolojiler:**  
+Flutter • Dart • Firebase • Clean Architecture
 
 ---
 
-### ⚡ GZY Enerji
+## ⚡ GZY Enerji
 
-Modern, responsive ve SEO uyumlu kurumsal web sitesi.
+Modern ve responsive kurumsal web sitesi.
 
-**Teknolojiler:** HTML5 • CSS3 • JavaScript
+**Teknolojiler:**  
+HTML5 • CSS3 • JavaScript • Responsive Design
 
 ---
 
-## 💻 Programlama Dilleri
+# 🛠️ Teknolojiler
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 🛠️ Frameworkler & Araçlar
+## Frameworks & Tools
 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🗄️ Veritabanı & Cloud
+## Database & Cloud
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -86,14 +112,9 @@ Modern, responsive ve SEO uyumlu kurumsal web sitesi.
 
 ---
 
-## 🎯 Hedefim
+# 📫 Bana Ulaşın
 
-Kullanıcı odaklı, güvenilir ve ölçeklenebilir yazılım çözümleri geliştirerek modern teknolojilerle değer üreten projeler geliştirmek ve kendimi sürekli geliştirmek.
+📧 **Email:** grkeemcolak@icloud.com
 
----
-
-## 📫 Bana Ulaşın
-
-📧 **E-posta:** **grkeemcolak@icloud.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/eren-g%C3%B6rkem-%C3%A7olak-06104b35a/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/eren-g%C3%B6rkem-%C3%A7olak-06104b35a/
