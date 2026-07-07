@@ -117,4 +117,4 @@ HTML5 • CSS3 • JavaScript • Responsive Design
 📧 **Email:** grkeemcolak@icloud.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/eren-g%C3%B6rkem-%C3%A7olak-06104b35a/
+https://www.linkedin.com/in/eren-gorkem-colak/
